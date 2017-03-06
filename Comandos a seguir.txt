@@ -1,0 +1,9 @@
+Descargar un repositorio
+git clone "link del repositorio que se desea clonar"
+
+Agregar un archivo
+git add .
+
+Modificar un archivo
+git commit -m "Mensaje a escribir"
+git push origin master
