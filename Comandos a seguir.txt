@@ -7,3 +7,7 @@ git add .
 Modificar un archivo
 git commit -m "Mensaje a escribir"
 git push origin master
+
+Comando para cambiar version
+git tag 
+git tag v0.0.1 -m "Mensaje"
