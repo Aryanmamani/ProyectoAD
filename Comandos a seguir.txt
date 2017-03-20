@@ -11,3 +11,6 @@ git push origin master
 Comando para cambiar version
 git tag 
 git tag v0.0.1 -m "Mensaje"
+git push origin master --tag
+ó
+git push origin v0.0.2
